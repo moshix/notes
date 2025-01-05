@@ -16,3 +16,5 @@ Add users with user_manager add user userpasswd.
 List users with user_manager list
 
 Remove users with user_manager remove user
+
+Buenos Aires, January 2025
