@@ -8,6 +8,8 @@ It requires MariaDB to be installed on a UNIX system and a C compiler.
 Build
 -----
 
+make
+
 Configure
 ---------
 
